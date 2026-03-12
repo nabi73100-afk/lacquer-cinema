@@ -1,4 +1,5 @@
 ![Lacquer Cinema](header.png)
+
 # Lacquer Cinema
 
 This repository develops an experimental cinematic research program exploring lacquer not as an object of craft tradition, but as a temporal and material logic shaping visual narrative, cinematic perception, and artificial image systems.
